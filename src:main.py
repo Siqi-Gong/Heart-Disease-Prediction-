@@ -1,4 +1,3 @@
-# src/main.py
 # Heart Disease Classification Pipeline
 # Key Focus: Solving Class Imbalance & Maximizing Recall
 
